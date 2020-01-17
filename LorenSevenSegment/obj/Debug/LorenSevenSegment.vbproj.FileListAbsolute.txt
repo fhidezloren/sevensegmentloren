@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\bin\Debug\LorenSevenSegment.exe.config
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\bin\Debug\LorenSevenSegment.exe
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\bin\Debug\LorenSevenSegment.pdb
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\bin\Debug\LorenSevenSegment.xml
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.Form1.resources
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.Resources.resources
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.exe
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.xml
+C:\Users\acer\Desktop\LorenSevenSegment\LorenSevenSegment\obj\Debug\LorenSevenSegment.pdb
